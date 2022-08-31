@@ -1,4 +1,4 @@
-name: Flutter Web
+name: Flutter Web V1
 on:
   push:
     branches:
